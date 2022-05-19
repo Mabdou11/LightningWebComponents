@@ -9,8 +9,9 @@
 
 ### How to Use
 - Select Product
-- Selected Single 
-
+- Selected Single Record
+- Use the Assign Output checkbox
+- Put the needed variable on Selected Single Record
 
 
 #### Credit: 
