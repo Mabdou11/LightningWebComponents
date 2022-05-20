@@ -1,3 +1,3 @@
 # Salesforce LightningWebComponents
 
-Some LWC Components that could be helpful
+Some General Purpose LWC Components that could be helpful
